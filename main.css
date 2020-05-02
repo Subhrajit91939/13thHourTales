@@ -29,17 +29,17 @@ body {
 .nav ul li {
       list-style: none;
       display: inline-block;
-      color: #000;
+      color: #fff;
       padding-right: 36px;
 }
 
 .nav a {
-     color : #000;
+     color : #fff;
      text-decoration: none;
 }
 
 .nav a:hover {
-      color: #000;
+      color: #fff;
       text-decoration: none;
 }
 
@@ -87,19 +87,19 @@ body {
       border: none;
       padding: 16px 40px;
       background: #fff;
-      color: #fff;
+      color: #000;
       letter-spacing: 4px;
       font-weight: 600;
       font-size: 12px;
 }
 
 .header a {
-     color : #fff;
+     color : #000;
      text-decoration: none;
 }
 
 .header a:hover {
-      color: #fff;
+      color: #000;
       text-decoration: none;
 }
 .overlay {
